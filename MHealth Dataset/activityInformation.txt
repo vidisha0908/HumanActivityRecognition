@@ -1,0 +1,13 @@
+0 No_activity
+1 Standing_still
+2 Sitting_and_relaxing
+3 Lying_down
+4 Walking
+5 Climbing_stairs
+6 Waist_bends_forward
+7 Frontal_elevation_of_arms
+8 Knees_bending
+9 Jogging
+10 Jumping_front_back
+11 Running
+12 Cycling
